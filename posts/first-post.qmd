@@ -1,0 +1,28 @@
+---
+title: "Why I’m Writing This Blog"
+date: 2025-01-01
+categories: [meta]
+---
+
+::: {.callout-note}
+**Epistemic status:** exploratory, writing to clarify my thinking.
+:::
+
+LessWrong-style writing optimizes for **truth-seeking**, not persuasion.
+
+This blog is an attempt to:
+- think in public
+- write things I want to be true *less*
+- notice confusion earlier
+
+### Math works
+
+$$
+P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B)}
+$$
+
+### Footnotes work
+
+This is a claim that needs justification.[^1]
+
+[^1]: Or at least a careful argument.

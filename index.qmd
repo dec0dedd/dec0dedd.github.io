@@ -1,0 +1,15 @@
+---
+title: "Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Welcome. This is a blog about reasoning, math, and software.
+
+Expect:
+- technical posts
+- epistemic status statements
+- minimal fluff
