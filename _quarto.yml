@@ -14,7 +14,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body: scripts.js
     toc: true
-    toc-depth: 3
     html-math-method: katex
-    link-external-newwindow: true
+
