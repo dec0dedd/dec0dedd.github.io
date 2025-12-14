@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "Your Blog Name"
-  description: "Thinking clearly about X"
-  site-url: https://YOUR_USERNAME.github.io/lw-blog
+  title: "Test name"
+  description: "Some description"
+  site-url: https://dec0dedd.github.io
   navbar:
     left:
       - text: Posts
@@ -13,8 +13,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
-    include-after-body: scripts.js
     toc: true
+    toc-depth: 3
     html-math-method: katex
-
+    link-external-newwindow: true
